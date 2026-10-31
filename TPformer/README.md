@@ -1,4 +1,4 @@
-# TPformer
+# TPLA_MDE
 Text-Guided Polarity-aware Linear Attention for Monocular Depth Estimation
 
 ## Installation
